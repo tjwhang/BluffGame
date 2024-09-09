@@ -1,6 +1,10 @@
 # Game of Bluff
 
+[Try Now] (https://ryugod.com/pages/shared/kotlin/Lu9lqgQkNd.template)
+
 Made a motif on Bluff, a simple psychological board game utilizing dice.
+
+
 주사위를 이용한 단순한 심리 보드 게임인 블러프를 모티브로 만들었습니다. 
 
 ## Rule
